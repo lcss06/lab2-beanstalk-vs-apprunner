@@ -1,0 +1,731 @@
+[
+  {
+    "id": "1",
+    "nombre": "Pollo",
+    "categoria": "Proteina",
+    "kcal": 220,
+    "proteina": 41.3,
+    "carbohidratos": 0,
+    "grasa": 4.8
+  },
+  {
+    "id": "2",
+    "nombre": "Pavo",
+    "categoria": "Proteina",
+    "kcal": 180,
+    "proteina": 40,
+    "carbohidratos": 0,
+    "grasa": 1.3
+  },
+  {
+    "id": "3",
+    "nombre": "Carne molida",
+    "categoria": "Proteina",
+    "kcal": 290,
+    "proteina": 26.5,
+    "carbohidratos": 0,
+    "grasa": 20
+  },
+  {
+    "id": "4",
+    "nombre": "Bistec",
+    "categoria": "Proteina",
+    "kcal": 222,
+    "proteina": 31,
+    "carbohidratos": 0,
+    "grasa": 10.6
+  },
+  {
+    "id": "5",
+    "nombre": "Lomo de res",
+    "categoria": "Proteina",
+    "kcal": 247,
+    "proteina": 30,
+    "carbohidratos": 0,
+    "grasa": 13.2
+  },
+  {
+    "id": "6",
+    "nombre": "Cerdo",
+    "categoria": "Proteina",
+    "kcal": 242,
+    "proteina": 27.6,
+    "carbohidratos": 0,
+    "grasa": 13.9
+  },
+  {
+    "id": "7",
+    "nombre": "Pescado blanco",
+    "categoria": "Proteina",
+    "kcal": 128,
+    "proteina": 26,
+    "carbohidratos": 0,
+    "grasa": 2.3
+  },
+  {
+    "id": "8",
+    "nombre": "Jurel",
+    "categoria": "Proteina",
+    "kcal": 200,
+    "proteina": 25.5,
+    "carbohidratos": 0,
+    "grasa": 10.5
+  },
+  {
+    "id": "9",
+    "nombre": "Caballa",
+    "categoria": "Proteina",
+    "kcal": 262,
+    "proteina": 23.9,
+    "carbohidratos": 0,
+    "grasa": 17.8
+  },
+  {
+    "id": "10",
+    "nombre": "Salmon",
+    "categoria": "Proteina",
+    "kcal": 208,
+    "proteina": 22.1,
+    "carbohidratos": 0,
+    "grasa": 12.4
+  },
+  {
+    "id": "11",
+    "nombre": "Atun",
+    "categoria": "Proteina",
+    "kcal": 116,
+    "proteina": 26,
+    "carbohidratos": 0,
+    "grasa": 1
+  },
+  {
+    "id": "12",
+    "nombre": "Huevo",
+    "categoria": "Proteina",
+    "kcal": 155,
+    "proteina": 13,
+    "carbohidratos": 1.1,
+    "grasa": 11
+  },
+  {
+    "id": "13",
+    "nombre": "Proteina en polvo",
+    "categoria": "Proteina",
+    "kcal": 370,
+    "proteina": 80,
+    "carbohidratos": 8,
+    "grasa": 3
+  },
+  {
+    "id": "14",
+    "nombre": "Tarwi",
+    "categoria": "Proteina",
+    "kcal": 151,
+    "proteina": 17.3,
+    "carbohidratos": 12.6,
+    "grasa": 4.7
+  },
+  {
+    "id": "15",
+    "nombre": "Arroz",
+    "categoria": "Carbohidrato",
+    "kcal": 130,
+    "proteina": 2.7,
+    "carbohidratos": 28,
+    "grasa": 0.3
+  },
+  {
+    "id": "16",
+    "nombre": "Papa",
+    "categoria": "Carbohidrato",
+    "kcal": 87,
+    "proteina": 1.9,
+    "carbohidratos": 20.1,
+    "grasa": 0.1
+  },
+  {
+    "id": "17",
+    "nombre": "Camote",
+    "categoria": "Carbohidrato",
+    "kcal": 86,
+    "proteina": 1.6,
+    "carbohidratos": 20,
+    "grasa": 0.1
+  },
+  {
+    "id": "18",
+    "nombre": "Yuca",
+    "categoria": "Carbohidrato",
+    "kcal": 160,
+    "proteina": 1.4,
+    "carbohidratos": 38.1,
+    "grasa": 0.3
+  },
+  {
+    "id": "19",
+    "nombre": "Olluco",
+    "categoria": "Carbohidrato",
+    "kcal": 62,
+    "proteina": 1.1,
+    "carbohidratos": 14.3,
+    "grasa": 0.1
+  },
+  {
+    "id": "20",
+    "nombre": "Lentejas",
+    "categoria": "Carbohidrato",
+    "kcal": 116,
+    "proteina": 9,
+    "carbohidratos": 20.1,
+    "grasa": 0.4
+  },
+  {
+    "id": "21",
+    "nombre": "Frijoles",
+    "categoria": "Carbohidrato",
+    "kcal": 132,
+    "proteina": 8.9,
+    "carbohidratos": 23.7,
+    "grasa": 0.5
+  },
+  {
+    "id": "22",
+    "nombre": "Garbanzos",
+    "categoria": "Carbohidrato",
+    "kcal": 164,
+    "proteina": 8.9,
+    "carbohidratos": 27.4,
+    "grasa": 2.6
+  },
+  {
+    "id": "23",
+    "nombre": "Arvejas",
+    "categoria": "Carbohidrato",
+    "kcal": 84,
+    "proteina": 5.4,
+    "carbohidratos": 15.6,
+    "grasa": 0.2
+  },
+  {
+    "id": "24",
+    "nombre": "Vainitas",
+    "categoria": "Carbohidrato",
+    "kcal": 35,
+    "proteina": 1.9,
+    "carbohidratos": 7.9,
+    "grasa": 0.3
+  },
+  {
+    "id": "25",
+    "nombre": "Quinua",
+    "categoria": "Carbohidrato",
+    "kcal": 120,
+    "proteina": 4.4,
+    "carbohidratos": 21.3,
+    "grasa": 1.9
+  },
+  {
+    "id": "26",
+    "nombre": "Kiwicha",
+    "categoria": "Carbohidrato",
+    "kcal": 102,
+    "proteina": 3.8,
+    "carbohidratos": 18.7,
+    "grasa": 1.6
+  },
+  {
+    "id": "27",
+    "nombre": "Pasta",
+    "categoria": "Carbohidrato",
+    "kcal": 158,
+    "proteina": 5.8,
+    "carbohidratos": 30.9,
+    "grasa": 1.4
+  },
+  {
+    "id": "28",
+    "nombre": "Choclo",
+    "categoria": "Carbohidrato",
+    "kcal": 96,
+    "proteina": 3.4,
+    "carbohidratos": 21,
+    "grasa": 1.5
+  },
+  {
+    "id": "29",
+    "nombre": "Cereal",
+    "categoria": "Carbohidrato",
+    "kcal": 379,
+    "proteina": 8,
+    "carbohidratos": 80,
+    "grasa": 2
+  },
+  {
+    "id": "30",
+    "nombre": "Avena",
+    "categoria": "Carbohidrato",
+    "kcal": 389,
+    "proteina": 16.9,
+    "carbohidratos": 66.3,
+    "grasa": 6.9
+  },
+  {
+    "id": "31",
+    "nombre": "Pan",
+    "categoria": "Carbohidrato",
+    "kcal": 247,
+    "proteina": 13,
+    "carbohidratos": 41,
+    "grasa": 3.4
+  },
+  {
+    "id": "32",
+    "nombre": "Tortilla",
+    "categoria": "Carbohidrato",
+    "kcal": 218,
+    "proteina": 5.7,
+    "carbohidratos": 44.6,
+    "grasa": 2.9
+  },
+  {
+    "id": "33",
+    "nombre": "Maca",
+    "categoria": "Carbohidrato",
+    "kcal": 325,
+    "proteina": 14,
+    "carbohidratos": 71.4,
+    "grasa": 2.2
+  },
+  {
+    "id": "34",
+    "nombre": "Palta",
+    "categoria": "Grasa",
+    "kcal": 160,
+    "proteina": 2,
+    "carbohidratos": 8.5,
+    "grasa": 14.7
+  },
+  {
+    "id": "35",
+    "nombre": "Mani",
+    "categoria": "Grasa",
+    "kcal": 567,
+    "proteina": 25.8,
+    "carbohidratos": 16.1,
+    "grasa": 49.2
+  },
+  {
+    "id": "36",
+    "nombre": "Almendras",
+    "categoria": "Grasa",
+    "kcal": 579,
+    "proteina": 21.2,
+    "carbohidratos": 21.6,
+    "grasa": 49.9
+  },
+  {
+    "id": "37",
+    "nombre": "Pecanas",
+    "categoria": "Grasa",
+    "kcal": 691,
+    "proteina": 9.2,
+    "carbohidratos": 13.9,
+    "grasa": 72
+  },
+  {
+    "id": "38",
+    "nombre": "Nueces",
+    "categoria": "Grasa",
+    "kcal": 654,
+    "proteina": 15.2,
+    "carbohidratos": 13.7,
+    "grasa": 65.2
+  },
+  {
+    "id": "39",
+    "nombre": "Aceitunas",
+    "categoria": "Grasa",
+    "kcal": 115,
+    "proteina": 0.8,
+    "carbohidratos": 6.3,
+    "grasa": 10.7
+  },
+  {
+    "id": "40",
+    "nombre": "Chia",
+    "categoria": "Grasa",
+    "kcal": 486,
+    "proteina": 16.5,
+    "carbohidratos": 42.1,
+    "grasa": 30.7
+  },
+  {
+    "id": "41",
+    "nombre": "Leche",
+    "categoria": "Lacteo",
+    "kcal": 61,
+    "proteina": 3.2,
+    "carbohidratos": 4.8,
+    "grasa": 3.3
+  },
+  {
+    "id": "42",
+    "nombre": "Yogurt",
+    "categoria": "Lacteo",
+    "kcal": 59,
+    "proteina": 10,
+    "carbohidratos": 3.6,
+    "grasa": 0.4
+  },
+  {
+    "id": "43",
+    "nombre": "Queso blanco",
+    "categoria": "Lacteo",
+    "kcal": 98,
+    "proteina": 11.1,
+    "carbohidratos": 3.4,
+    "grasa": 4.3
+  },
+  {
+    "id": "44",
+    "nombre": "Queso amarillo",
+    "categoria": "Lacteo",
+    "kcal": 402,
+    "proteina": 24.9,
+    "carbohidratos": 1.3,
+    "grasa": 33.1
+  },
+  {
+    "id": "45",
+    "nombre": "Bebida de almendras",
+    "categoria": "Bebida",
+    "kcal": 17,
+    "proteina": 0.6,
+    "carbohidratos": 0.6,
+    "grasa": 1.5
+  },
+  {
+    "id": "46",
+    "nombre": "Bebida de soya",
+    "categoria": "Bebida",
+    "kcal": 33,
+    "proteina": 2.9,
+    "carbohidratos": 1.7,
+    "grasa": 1.6
+  },
+  {
+    "id": "47",
+    "nombre": "Bebida de coco",
+    "categoria": "Bebida",
+    "kcal": 31,
+    "proteina": 0.2,
+    "carbohidratos": 2.9,
+    "grasa": 2.1
+  },
+  {
+    "id": "48",
+    "nombre": "Platano",
+    "categoria": "Fruta",
+    "kcal": 89,
+    "proteina": 1.1,
+    "carbohidratos": 22.8,
+    "grasa": 0.3
+  },
+  {
+    "id": "49",
+    "nombre": "Fresas",
+    "categoria": "Fruta",
+    "kcal": 32,
+    "proteina": 0.7,
+    "carbohidratos": 7.7,
+    "grasa": 0.3
+  },
+  {
+    "id": "50",
+    "nombre": "Manzana",
+    "categoria": "Fruta",
+    "kcal": 52,
+    "proteina": 0.3,
+    "carbohidratos": 13.8,
+    "grasa": 0.2
+  },
+  {
+    "id": "51",
+    "nombre": "Arandanos",
+    "categoria": "Fruta",
+    "kcal": 57,
+    "proteina": 0.7,
+    "carbohidratos": 14.5,
+    "grasa": 0.3
+  },
+  {
+    "id": "52",
+    "nombre": "Pina",
+    "categoria": "Fruta",
+    "kcal": 50,
+    "proteina": 0.5,
+    "carbohidratos": 13.1,
+    "grasa": 0.1
+  },
+  {
+    "id": "53",
+    "nombre": "Papaya",
+    "categoria": "Fruta",
+    "kcal": 43,
+    "proteina": 0.5,
+    "carbohidratos": 10.8,
+    "grasa": 0.3
+  },
+  {
+    "id": "54",
+    "nombre": "Mandarina",
+    "categoria": "Fruta",
+    "kcal": 53,
+    "proteina": 0.8,
+    "carbohidratos": 13.3,
+    "grasa": 0.3
+  },
+  {
+    "id": "55",
+    "nombre": "Naranja",
+    "categoria": "Fruta",
+    "kcal": 47,
+    "proteina": 0.9,
+    "carbohidratos": 11.8,
+    "grasa": 0.1
+  },
+  {
+    "id": "56",
+    "nombre": "Kiwi",
+    "categoria": "Fruta",
+    "kcal": 61,
+    "proteina": 1.1,
+    "carbohidratos": 14.7,
+    "grasa": 0.5
+  },
+  {
+    "id": "57",
+    "nombre": "Mango",
+    "categoria": "Fruta",
+    "kcal": 60,
+    "proteina": 0.8,
+    "carbohidratos": 15,
+    "grasa": 0.4
+  },
+  {
+    "id": "58",
+    "nombre": "Sandia",
+    "categoria": "Fruta",
+    "kcal": 30,
+    "proteina": 0.6,
+    "carbohidratos": 7.6,
+    "grasa": 0.2
+  },
+  {
+    "id": "59",
+    "nombre": "Pera",
+    "categoria": "Fruta",
+    "kcal": 57,
+    "proteina": 0.4,
+    "carbohidratos": 15.2,
+    "grasa": 0.1
+  },
+  {
+    "id": "60",
+    "nombre": "Durazno",
+    "categoria": "Fruta",
+    "kcal": 39,
+    "proteina": 0.9,
+    "carbohidratos": 9.5,
+    "grasa": 0.3
+  },
+  {
+    "id": "61",
+    "nombre": "Uvas",
+    "categoria": "Fruta",
+    "kcal": 69,
+    "proteina": 0.7,
+    "carbohidratos": 18.1,
+    "grasa": 0.2
+  },
+  {
+    "id": "62",
+    "nombre": "Granadilla",
+    "categoria": "Fruta",
+    "kcal": 97,
+    "proteina": 2.2,
+    "carbohidratos": 23.4,
+    "grasa": 0.7
+  },
+  {
+    "id": "63",
+    "nombre": "Melon",
+    "categoria": "Fruta",
+    "kcal": 34,
+    "proteina": 0.8,
+    "carbohidratos": 8.2,
+    "grasa": 0.2
+  },
+  {
+    "id": "64",
+    "nombre": "Pitahaya",
+    "categoria": "Fruta",
+    "kcal": 60,
+    "proteina": 1.2,
+    "carbohidratos": 13,
+    "grasa": 0.4
+  },
+  {
+    "id": "65",
+    "nombre": "Espinaca",
+    "categoria": "Verdura",
+    "kcal": 23,
+    "proteina": 2.9,
+    "carbohidratos": 3.6,
+    "grasa": 0.4
+  },
+  {
+    "id": "66",
+    "nombre": "Lechuga",
+    "categoria": "Verdura",
+    "kcal": 15,
+    "proteina": 1.4,
+    "carbohidratos": 2.9,
+    "grasa": 0.2
+  },
+  {
+    "id": "67",
+    "nombre": "Brocoli",
+    "categoria": "Verdura",
+    "kcal": 34,
+    "proteina": 2.8,
+    "carbohidratos": 6.6,
+    "grasa": 0.4
+  },
+  {
+    "id": "68",
+    "nombre": "Coliflor",
+    "categoria": "Verdura",
+    "kcal": 25,
+    "proteina": 1.9,
+    "carbohidratos": 5,
+    "grasa": 0.3
+  },
+  {
+    "id": "69",
+    "nombre": "Repollo",
+    "categoria": "Verdura",
+    "kcal": 25,
+    "proteina": 1.3,
+    "carbohidratos": 5.8,
+    "grasa": 0.1
+  },
+  {
+    "id": "70",
+    "nombre": "Tomate",
+    "categoria": "Verdura",
+    "kcal": 18,
+    "proteina": 0.9,
+    "carbohidratos": 3.9,
+    "grasa": 0.2
+  },
+  {
+    "id": "71",
+    "nombre": "Pepino",
+    "categoria": "Verdura",
+    "kcal": 16,
+    "proteina": 0.7,
+    "carbohidratos": 3.6,
+    "grasa": 0.1
+  },
+  {
+    "id": "72",
+    "nombre": "Berenjena",
+    "categoria": "Verdura",
+    "kcal": 25,
+    "proteina": 1,
+    "carbohidratos": 5.9,
+    "grasa": 0.2
+  },
+  {
+    "id": "73",
+    "nombre": "Zanahoria",
+    "categoria": "Verdura",
+    "kcal": 41,
+    "proteina": 0.9,
+    "carbohidratos": 9.6,
+    "grasa": 0.2
+  },
+  {
+    "id": "74",
+    "nombre": "Zapallo",
+    "categoria": "Verdura",
+    "kcal": 26,
+    "proteina": 1,
+    "carbohidratos": 6.5,
+    "grasa": 0.1
+  },
+  {
+    "id": "75",
+    "nombre": "Esparragos",
+    "categoria": "Verdura",
+    "kcal": 20,
+    "proteina": 2.2,
+    "carbohidratos": 3.9,
+    "grasa": 0.1
+  },
+  {
+    "id": "76",
+    "nombre": "Champinones",
+    "categoria": "Verdura",
+    "kcal": 22,
+    "proteina": 3.1,
+    "carbohidratos": 3.3,
+    "grasa": 0.3
+  },
+  {
+    "id": "77",
+    "nombre": "Aji amarillo",
+    "categoria": "Condimento",
+    "kcal": 40,
+    "proteina": 1.9,
+    "carbohidratos": 8.8,
+    "grasa": 0.4
+  },
+  {
+    "id": "78",
+    "nombre": "Cebolla roja",
+    "categoria": "Condimento",
+    "kcal": 40,
+    "proteina": 1.1,
+    "carbohidratos": 9.3,
+    "grasa": 0.1
+  },
+  {
+    "id": "79",
+    "nombre": "Ajo",
+    "categoria": "Condimento",
+    "kcal": 149,
+    "proteina": 6.4,
+    "carbohidratos": 33.1,
+    "grasa": 0.5
+  },
+  {
+    "id": "80",
+    "nombre": "Limon",
+    "categoria": "Condimento",
+    "kcal": 30,
+    "proteina": 0.7,
+    "carbohidratos": 10.5,
+    "grasa": 0.2
+  },
+  {
+    "id": "81",
+    "nombre": "Culantro",
+    "categoria": "Condimento",
+    "kcal": 23,
+    "proteina": 2.1,
+    "carbohidratos": 3.7,
+    "grasa": 0.5
+  }
+]
